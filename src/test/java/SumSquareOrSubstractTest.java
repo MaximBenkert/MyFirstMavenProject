@@ -19,7 +19,7 @@ public class SumSquareOrSubstractTest {
     void shouldReturnSquare (){
         //given
         int i = 3;
-        int j = 1;
+        int j = 5;
         //when
         int actual = SumSquareOrSubstract.sumSquareOrSubstract(i, j);
         //then
